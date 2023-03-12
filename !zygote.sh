@@ -2,15 +2,15 @@
 #######################################################################################################
 #####=============================== Package/Extension Information ===============================#####
 
-NAME="Linux-Kernel" #Package/Extension Name
+NAME="Linux-Surface-Kernel" #Package/Extension Name
 
-CODENAME="your-unique-tag" #An Unique codename
+CODENAME="linux-surface-kernel" #An Unique codename
 
 TYPE="Package" #Specify (Package / Extension)
 
 AUTHOR="AXON" #Your name as the Developer/Owner/Packer
 
-VERSION="1.0" #Specify the Version of this package/extension
+VERSION="5.10" #Specify the Version of this package/extension
 
 SHORTDESC="Bakes you a cake @_@" #Provide a short description about this package/extension
 
