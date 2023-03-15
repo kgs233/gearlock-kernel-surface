@@ -1,1 +1,3 @@
 surface-kernel.gxp
+system/lib/modules/*/build
+system/lib/modules/*/source
